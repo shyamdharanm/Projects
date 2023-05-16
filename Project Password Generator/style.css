@@ -1,0 +1,12 @@
+body{
+    background-image: url(https://wallpapercave.com/w/wp1991196.jpg);
+    background-size: cover;
+}
+.container {
+    margin-top: 50px;
+}
+.password {
+    font-family: monospace;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
